@@ -79,17 +79,17 @@ export const subscribe = {
   p: `Be the first to know about new games, exclusive previews & special promotions`,
 }
 export const footer = {
-  h1: 'Gigaplay',
+  h1: 'Soloplay',
   p: `I'm a paragraph. Click here to add your own text
   and edit me. I’m a great place for you to tell a story
   and let your users know a little more about you.`,
   contact: {
     h1: 'Contact',
     others: [
-      '500 Terry Francois Street',
-      'San Francisco, CA 94158',
-      "info@mysite.com",
-      'Tel: 123-456-7890'
+      'Sapoorji Sukhabristi Complex',
+      'Newtown, Kolkata',
+      "deyg6988@gmail.com",
+      'ph: 8389849446'
     ]
   },
   quickMenu: {
@@ -107,7 +107,7 @@ export const footer = {
 }
 
 export const navbar = {
-  logo: 'Gigaplay',
+  logo: 'Soloplay',
   links: [
     {
       url: '#home',

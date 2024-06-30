@@ -22,7 +22,7 @@ const Footer = () => {
           {footer.socials.others.map((el) => <p className=' text-zinc-400 text-sm underline cursor-pointer mb-1 hover:text-teal-200 duration-200'>{el}</p>)}
         </div>
       </div>
-      <div className=" text-sm text-center md:text-left text-zinc-400">© 2023 by Gigaplay. Created on <span className='underline cursor-pointer'>Editor X.</span></div>
+      <div className=" text-sm text-center md:text-left text-zinc-400">© 2023 by Soloplay. Created on <span className='underline cursor-pointer'>Gourab Dey</span></div>
     </div>
   )
 }
